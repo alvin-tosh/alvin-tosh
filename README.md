@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alvin-tosh from Nairobi Kenya
 - 👀 I’m interested in Programming, cybersecurity and game development.
 - 🌱 I’m currently learning threejs, python for cybersecurity and automation scripts.
-- 💞️ I’m looking to collaborate and contribute to any and all projects. especially: cyber security, software and game development and review.
+- 💞️ I’m looking to collaborate and contribute to any and all projects ie. cyber security, software and game development and review.
 - 📫 Reach me: +254 792069331 or alvingitonga14@gmail.com anytime!
 
 <!---
