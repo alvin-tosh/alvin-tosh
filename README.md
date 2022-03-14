@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Alvin
 #### Web and Game designer, Developer, Pentester, OffSec and Red Team Consultant...  
-![Web and Game designer, Developer, Pentester, OffSec and Red Team Consultant...  ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web and Game designer, Developer, Pentester, OffSec and Red Team Consultant...  ](https://github.com/alvin-tosh/alvin-tosh/blob/main/Helping%20Organisations.png)
 
 I’m @alvin-tosh from Nairobi Kenya
 - 👀 I’m interested and involved in Programming, cybersecurity and game development and testing.
