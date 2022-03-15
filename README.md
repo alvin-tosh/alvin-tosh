@@ -17,7 +17,7 @@ Skills: NODE JS / JS / HTML / CSS / PYTHON / C++ / UNITY
 - 🤔 I’m looking for help with Cyber Security and Game Development 
 - 💬 Ask me about Design, Development and Offensive Security. 
 - 📫 How to reach me: +254 792069331 or alvingitonga14@gmail.com anytime! 
-- ⚡ Fun fact: Same height as Kevin Hart and Houdini:joy: 
+- ⚡ Fun fact:  Same height as Kevin Hart and Houdini:joy: 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alvin-tosh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/alvin_tosh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/GITONGAalvin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_palpatine69/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/gitonga_alvin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/user:18108613)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://chat-dapp.surge.sh/)  
