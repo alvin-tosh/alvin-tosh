@@ -2,7 +2,7 @@
 #### Web and Game designer, Developer, Pentester, OffSec and Red Team Consultant...  
 ![Web and Game designer, Developer, Pentester, OffSec and Red Team Consultant...  ](https://github.com/alvin-tosh/alvin-tosh/blob/main/Helping%20Organisations.png)
 
-I’m @alvin-tosh from Nairobi Kenya
+I’m Alvin-tosh from Nairobi Kenya
 - 👀 I’m interested and involved in Programming, cybersecurity and game development and testing.
 - 🌱 I’m currently learning threejs, python for cybersecurity and automation scripts, UNITY for game development.
 💞️ I’m looking to collaborate and contribute to any and all projects ie. cyber security, software and game development and review.
