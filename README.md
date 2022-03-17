@@ -2,20 +2,19 @@
 #### Web and Game designer, Developer, Pentester, OffSec and Red Team Consultant...  
 ![Web and Game designer, Developer, Pentester, OffSec and Red Team Consultant...  ](https://github.com/alvin-tosh/alvin-tosh/blob/main/Helping%20Organisations.png)
 
-I’m Alvin-tosh from Nairobi Kenya
-- 👀 I’m interested and involved in Programming, cybersecurity and game development and testing.
-- 🌱 I’m currently learning threejs, python for cybersecurity and automation scripts, UNITY for game development.
-💞️ I’m looking to collaborate and contribute to any and all projects ie. cyber security, software and game development and review.
-- 📫 Reach me: +254 792069331 or alvingitonga14@gmail.com anytime!
+I’m Alvin-tosh from Nairobi, Kenya
+- 👀 Self-taught Programmer, Cybersecurity/threat simulation, analysis and Mitigation, Software & game development and testing.
+
 
 
 Skills: NODE JS / JS / HTML / CSS / PYTHON / C++ / UNITY
 
+- 👀 I’m interested in Programming, cybersecurity and game development and testing.
 - 🔭 I’m currently working on  Python for cybersecurity and UNITY engine  
-- 🌱 I’m currently learning REACT, UNITY, Three JS 
-- 👯 I’m looking to collaborate on any and all projects ie. cyber security, software and game development and review. 
+- 🌱 I’m currently learning REACT, threejs, python for cybersecurity and automation scripts, UNITY for game development.
+- 👯 I’m looking to collaborate on projects ie. cyber security, software and game development and review. 
 - 🤔 I’m looking for help with Cyber Security and Game Development 
-- 💬 Ask me about Design, Development and Offensive Security. 
+- 💬 Ask me about Application Design, Development and Offensive Security. 
 - 📫 How to reach me: +254 792069331 or alvingitonga14@gmail.com anytime! 
 - ⚡ Fun fact:  Same height as Kevin Hart and Houdini:joy: 
 
