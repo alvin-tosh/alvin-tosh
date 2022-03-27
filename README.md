@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Alvin
-#### Web and Game designer, Developer, Pentester, OffSec and Red Team Consultant... 
+#### Web and Game designer, Developer, Pentester, OffSec, Red Team Consultant... 
 > "It gives me great pleasure indeed to see the stubbornness of an incorrigible nonconformist warmly acclaimed." --Albert Einstein
 ![Web and Game designer, Developer, Pentester, OffSec and Red Team Consultant...  ](https://github.com/alvin-tosh/alvin-tosh/blob/main/Helping%20Organisations.png)
 
