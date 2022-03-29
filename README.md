@@ -1,4 +1,4 @@
-### Hi there 👋, Call me Alvo...
+### Hi there 👋, Call me Alvo or Chip:hamster::paw_prints:...
 #### Web and Game designer, Developer, Pentester, OffSec, Cybersec & Red Team Consultant, SOC analyst... 
 > "It gives me great pleasure indeed to see the stubbornness of an incorrigible nonconformist warmly acclaimed." --Albert Einstein
 ![Web and Game designer, Developer, Pentester, OffSec and Red Team Consultant...  ](https://github.com/alvin-tosh/alvin-tosh/blob/main/Helping%20Organisations.png)
@@ -8,7 +8,7 @@ I’m Alvin-tosh from Nairobi, Kenya
 
 
 
-Skills: NODE JS / JS / HTML / CSS / PYTHON / C++ / UNITY
+Skills: NODE / JS / HTML / CSS / PYTHON / C++ / UNITY / GO / C#
 
 - 👀 I’m interested in Programming, cybersecurity and game development and testing.
 - 🔭 Currently working on learning and mastering UNITY engine  
