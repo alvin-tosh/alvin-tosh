@@ -8,7 +8,7 @@ I’m Alvin-tosh from Nairobi, Kenya
 
 
 
-Skills: NODE / JS / HTML / CSS / PYTHON / C++ / UNITY / GO / C#
+Skills: NODE / Vite / Svelte / Angular / JS / HTML / CSS / PYTHON / C++ / UNITY / GO / C#
 
 - 👀 I’m interested in Programming, cybersecurity and game development and testing.
 - 🔭 Currently working on learning and mastering UNITY engine  
