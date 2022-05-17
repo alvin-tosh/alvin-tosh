@@ -3,11 +3,11 @@
 > "It gives me great pleasure indeed to see the stubbornness of an incorrigible nonconformist warmly acclaimed." --Albert Einstein
 ![Web and Game designer, Developer, Pentester, OffSec and Red Team Consultant...  ](https://github.com/alvin-tosh/alvin-tosh/blob/main/Helping%20Organisations.png)
 
-I’m Alvin-tosh from Nairobi, Kenya
-- 👀 Self-taught Programmer, Cybersecurity/threat simulation, analysis and Mitigation, Software & game development and testing.
-
-
 ```
+I’m Alvin-tosh from Nairobi, Kenya
+> 👀 Self-taught Programmer, Cybersecurity/threat simulation, analysis and Mitigation, Software & game development and testing.
+
+
 Skills: NODE / Firebase / Vite / Svelte / Angular / JS / HTML / CSS / PYTHON / C++ / UNITY / GO / C#
 
 - 👀 I’m interested in Programming, cybersecurity and game development and testing.
