@@ -13,11 +13,11 @@ Skills: NODE / Firebase / Vite / Svelte / Angular / JS / HTML / CSS / PYTHON / C
 - 👀 I’m interested in Programming, cybersecurity and game development and testing.
 - 🔭 Currently working on learning and mastering UNITY engine  
 - 🌱 Currently learning REACT, threejs, python for cybersecurity and automation scripts, UNITY for game development.
-- 👯 looking to collaborate on projects ie. cyber security, software and game development and review. 
-- 🤔 looking for help with Cyber Security and Game Development with UNITY and CORE.. 
+- 👯 Looking to collaborate on projects ie. Cyber security, software and Game Dev and Design and review. 
+- 🤔 Looking for help with Cyber Security and Game Development with UNITY and CORE.. 
 - 💬 Ask me about Application Design, Development and Offensive Security. 
 - 📫 Reach me: +254 792069331 or alvingitonga14@gmail.com anytime! 
-- ⚡ Fun fact:  Same height as Kevin Hart and Houdini:joy: 
+- ⚡ Fun fact:  Same height as Kevin Hart and Houdini 😂 
 ```
 
 
