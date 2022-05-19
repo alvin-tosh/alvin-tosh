@@ -5,7 +5,7 @@
 
 ```
 I’m Alvin-tosh from Nairobi, Kenya
-> 👀 Self-taught Programmer, Cybersecurity/threat simulation, analysis and Mitigation, Software & game development and testing.
+> 👀 Self-taught Programmer, Cybersecurity/threat simulation, analysis and Mitigation, Software & game development and testing.🤗
 
 
 Skills: NODE / Firebase / Vite / Svelte / Angular / JS / HTML / CSS / PYTHON / C++ / UNITY / GO / C#
