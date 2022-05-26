@@ -1,7 +1,7 @@
 ### Hi there 👋 Call me Alvin or Chip:hamster::paw_prints:...
 #### Web and Game designer, Developer, Pentester, OffSec, Cybersec & Red Team Consultant, SOC analyst....:nerd_face: 
 > "It gives me great pleasure indeed to see the stubbornness of an incorrigible nonconformist warmly acclaimed." --Albert Einstein
-![Web and Game designer, Developer, Pentester, OffSec and Red Team Consultant...  ](https://github.com/alvin-tosh/alvin-tosh/blob/main/Helping%20Organisations.png)
+![Web and Game designer, Developer, Pentester, OffSec and Red Team Consultant...  ](https://github.com/alvin-tosh/alvin-tosh/blob/main/Alvin%20Gitonga.png)
 
 ```
 I’m Alvin-tosh from Nairobi, Kenya
