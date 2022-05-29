@@ -28,7 +28,7 @@ Skills: NODE / Firebase / Vite / Svelte / Angular / JS / HTML / CSS / PYTHON / C
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvin-tosh)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alvin-tosh&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alvin-tosh&show_icons=true&count_private=true&bg_color=0D1117)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alvin-tosh&bg_color=0D1117)  
 
