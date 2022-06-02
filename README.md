@@ -1,14 +1,14 @@
 ![Web and Game designer, Developer, Pentester, OffSec and Red Team Consultant...  ](https://github.com/alvin-tosh/alvin-tosh/blob/main/Alvin%20Gitonga.png)
 > "It gives me great pleasure indeed to see the stubbornness of an incorrigible nonconformist warmly acclaimed." --Albert Einstein
 
-## Hello there,
+## Hello there 🤗
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> 
 Call me Alv0 or Chip:hamster::paw_prints:...
 
 ```
 I’m Alvin Gitonga from Nairobi, Kenya
 👀 Self-taught Programmer, Cybersecurity/threat simulation, 
-analysis and Mitigation, Software & game development and testing.🤗
+analysis and Mitigation, Software & game development and testing.😋
 
 
 Skills: NODE / Firebase / Vite / Svelte / Angular / JS / HTML / CSS / PYTHON / C++ / UNITY / GO / C#
