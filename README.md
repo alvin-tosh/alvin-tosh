@@ -16,7 +16,7 @@ Skills: NODE / Firebase / Vite / Svelte / Angular / JS / HTML / CSS / PYTHON / C
 
 - 👀 I’m interested in Programming, cybersecurity and game development and testing.
 - 🔭 Currently working on learning and mastering UNITY engine  
-- 🌱 Currently learning REACT, threejs, python for cybersecurity and automation scripts, UNITY for game development.
+- 🌱 Currently learning Malware Analysis, reverse engineering and Threat Hunting; as well as UNITY Engine.
 - 👯 Looking to collaborate on projects ie. Cyber security, software and Game Dev and Design and review. 
 - 🤔 Looking for help with Cyber Security and Game Development with UNITY and CORE.. 
 - 💬 Ask me about Application Design, Development and Offensive Security. 
