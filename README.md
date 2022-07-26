@@ -4,7 +4,7 @@
 ## Hello there 🤗
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> 
 
-Call me Alv0 or Chip:hamster::paw_prints:...
+Call me Chip:hamster::paw_prints:...
 
 ```
 I’m Alvin Gitonga from Nairobi, Kenya
