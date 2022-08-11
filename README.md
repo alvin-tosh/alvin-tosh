@@ -1,4 +1,4 @@
-![Web and Game designer, Developer, Pentester, OffSec and Red Team Consultant...  ](https://github.com/alvin-tosh/alvin-tosh/blob/main/Alvin%20Gitonga(1).png)
+![Web and Game designer, Developer, Pentester, OffSec and Red Team Consultant...  ](https://github.com/alvin-tosh/alvin-tosh/blob/main/Alvin%20Gitonga(2).png)
 > "It gives me great pleasure indeed to see the stubbornness of an incorrigible nonconformist warmly acclaimed." --Albert Einstein
 
 ## Hello there 🤗
