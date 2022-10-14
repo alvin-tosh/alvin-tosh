@@ -2,7 +2,7 @@
 > "It gives me great pleasure indeed to see the stubbornness of an incorrigible nonconformist warmly acclaimed." --Albert Einstein
 
 ## Hello there 🤗
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="150px"> 
 
 ## Call me Chip:hamster::paw_prints:...
 
