@@ -15,7 +15,7 @@ analysis and Mitigation, Software & game development and testing.😋
 My Cyber Security Blog:bit.ly/3PztEKb
 Skills: NODE / Firebase / Vite / Svelte / Angular / JS / HTML / CSS / PYTHON / C++ / UNITY / GO / C#
 
-- 👀 I’m interested in Programming, cybersecurity and game development and testing.
+- 👀 I’m interested in Cybersecurity, Threat analysis, red and purple teaming, Cybersecurity technical writing and game development.
 
 - 🔭 Currently working on learning and mastering Threat analysis and Triaging with SIEM 
 
@@ -25,7 +25,7 @@ Skills: NODE / Firebase / Vite / Svelte / Angular / JS / HTML / CSS / PYTHON / C
 
 - 🤔 Looking for help with Cloud security and Pentesting.. 
 
-- 💬 Ask me about Application Design, Development and Offensive Security. 
+- 💬 Ask me about Application Design, Cybersecurity ops and Offensive Security. 
 
 - 📫 Reach me: alvingitonga14@gmail.com anytime! 
 
