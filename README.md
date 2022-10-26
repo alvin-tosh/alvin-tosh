@@ -9,8 +9,8 @@
 
 ```
 I’m Alvin Gitonga from Nairobi, Kenya
-👀 Malware Dev, Cybersecurity, threat simulation, 
-analysis and Mitigation, Software & game development and testing.😋
+👀 Malware Dev, Cybersecurity, threat simulation, Ethical Hacker 
+security/threat analysis & Mitigation, Software & game dev😋
 
 My Cyber Security Blog:bit.ly/3PztEKb
 Skills: Malware analysis / ThreatHunting / Red teaming / ThreatSimulation / Triaging & SIEM / Javascript / PYTHON / C++ / UNITY / GO / C#
