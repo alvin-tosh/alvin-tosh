@@ -9,7 +9,7 @@
 
 ```
 I’m Alvin Gitonga from Nairobi, Kenya
-👀 Self-taught Programmer, Cybersecurity/threat simulation, 
+👀 Malware Dev, Cybersecurity, threat simulation, 
 analysis and Mitigation, Software & game development and testing.😋
 
 My Cyber Security Blog:bit.ly/3PztEKb
