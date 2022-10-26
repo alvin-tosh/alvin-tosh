@@ -25,7 +25,7 @@ Skills: NODE / Firebase / Vite / Svelte / JS / HTML / CSS / PYTHON / C++ / UNITY
 
 - 🤔 Looking for help with Cloud security and Pentesting.. 
 
-- 💬 Ask me about Application Design, Cybersecurity ops and Offensive Security. 
+- 💬 Ask me about Malware, Threat Intelligence, Cybersecurity and Offensive Security. 
 
 - 📫 Reach me: alvingitonga14@gmail.com anytime! 
 
