@@ -9,12 +9,12 @@
 
 ```
 I’m Alvin Gitonga from Nairobi, Kenya
-👀 Malware Dev, Cybersecurity, threat simulation, Ethical Hacker 
+👀 Malware Dev, Cybersecurity, threat simulation, Ethical Hacker, Cybersecurity Technical Writer
 security/threat analysis & Mitigation, Software & game dev😋
 
-Check out my Cyber Security Blog:👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇
+Check out my Cyber Security Blog: 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇
 MORAN cybersecurity Group:(https://alvingitonga14.wixsite.com/moran)
-👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆
+👆  👆  👆  👆  👆  👆  👆  👆  👆  👆  👆  👆  👆  👆  👆  👆  👆  👆  👆
 
 Skills: Malware analysis / ThreatHunting / Red teaming / ThreatSimulation / Triaging & SIEM / Javascript / PYTHON / C++ / UNITY / GO / C#
 
