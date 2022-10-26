@@ -13,7 +13,7 @@ I’m Alvin Gitonga from Nairobi, Kenya
 analysis and Mitigation, Software & game development and testing.😋
 
 My Cyber Security Blog:bit.ly/3PztEKb
-Skills: NODE / Firebase / Vite / Svelte / JS / HTML / CSS / PYTHON / C++ / UNITY / GO / C#
+Skills: Malware analysis / ThreatHunting / Red teaming / ThreatSimulation / Triaging & SIEM / Javascript / PYTHON / C++ / UNITY / GO / C#
 
 - 👀 I’m interested in Cybersecurity, Threat analysis, red and purple teaming, Cybersecurity technical writing and game development.
 
