@@ -26,7 +26,7 @@ Skills: Malware analysis / ThreatHunting / Red teaming / ThreatSimulation / Tria
 
 - 👯 Looking to collaborate on projects ie. Cyber security, Malware analysis, SIEM, Game Dev and Design. 
 
-- 🤔 Looking for help with Cloud security and Pentesting.. 
+- 🤔 Looking for help with Cloud security auditing.. 
 
 - 💬 Ask me about Malware, Threat Intelligence, Cybersecurity and Offensive Security. 
 
