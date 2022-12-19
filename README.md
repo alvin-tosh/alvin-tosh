@@ -1,5 +1,5 @@
 ![Web and Game designer, Developer, Pentester, OffSec and Red Team Consultant...  ](https://github.com/alvin-tosh/alvin-tosh/blob/main/Alvin%20Gitonga(4).png)
-> "It gives me great pleasure indeed to see the stubbornness of an incorrigible nonconformist warmly acclaimed." --Albert Einstein
+> “Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” --Richard P. Feynman
 
 ## Hello there 😋
 
