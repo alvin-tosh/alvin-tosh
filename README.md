@@ -4,7 +4,7 @@
 
 ## Hello there 😋
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="150px" align="center"> 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="180px" align="center"> 
 
 ## Call me Chip:hamster::paw_prints:
 
