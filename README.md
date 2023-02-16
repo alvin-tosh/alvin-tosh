@@ -23,7 +23,7 @@ Skills: Malware analysis / ThreatHunting / Red teaming / ThreatSimulation / Tria
 
 - 🔭 Currently working on learning and mastering Threat analysis and Triaging with SIEM 
 
-- 🌱 Currently learning Malware Analysis, reverse engineering and Threat Hunting; as well as UNITY Engine.
+- 🌱 Currently learning Malware Analysis, reverse engineering and Threat Hunting;
 
 - 👯 Looking to collaborate on projects ie. Cyber security, Malware analysis, SIEM, Game Dev and Design. 
 
