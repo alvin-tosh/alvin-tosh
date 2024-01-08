@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="180px" align="center"> 
 
-## Call me Chip:hamster::paw_prints:
+## Call me Chip :hamster::paw_prints:
 
 ```
 I’m Alvin Gitonga from Nairobi, Kenya
